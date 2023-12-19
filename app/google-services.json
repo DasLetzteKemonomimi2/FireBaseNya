@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200167653408",
+    "project_id": "fir-rnya",
+    "storage_bucket": "fir-rnya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200167653408:android:d15b0f59086219cb9c3c45",
+        "android_client_info": {
+          "package_name": "com.example.firebaser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ25uQ5R8fRcbNkBByiD0XD2K14wYLI-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
